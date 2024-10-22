@@ -7,4 +7,6 @@ public class ShoppingCart {
     private double totalPrice;
     private int itemsInCart;
 
+
+
 }
