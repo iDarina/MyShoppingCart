@@ -1,10 +1,10 @@
 package shoppingCart;
 
 
- public abstract class MenuItems {
-  String itemName;
-  double price;
-  int quanity;
+ public class MenuItems {
+  private  String itemName;
+  private double price;
+  private int quanity;
   static int stock;
  }
 
