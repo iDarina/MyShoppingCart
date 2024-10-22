@@ -2,9 +2,9 @@ package shoppingCart;
 
 
  public class MenuItems {
-  String itemName;
-  double price;
-  int quanity;
+  private  String itemName;
+  private double price;
+  private int quanity;
   static int stock;
  }
 
