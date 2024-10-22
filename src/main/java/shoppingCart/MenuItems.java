@@ -1,7 +1,7 @@
 package shoppingCart;
 
 
- public abstract class MenuItems {
+ public class MenuItems {
   String itemName;
   double price;
   int quanity;
